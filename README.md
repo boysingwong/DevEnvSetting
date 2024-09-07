@@ -1,2 +1,2 @@
 # DevEnvSetting
-(vim setting)[./.vimrc]
+[vim setting](./.vimrc)
